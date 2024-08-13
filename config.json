@@ -1,0 +1,10 @@
+{
+    "scraperapi_key": "your_scraperapi_key",
+    "__mk_pt_BR": "ÅMÅŽÕÑ",
+    "search_params": {
+        "base_url": "https://www.amazon.com.br/s",
+        "ref_number": "2",
+        "num_pages": 5
+    },
+    "currency_symbol": "R$"
+}
